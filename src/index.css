@@ -28,6 +28,6 @@
   }
 
   .message {
-    @apply p-[2px_4px] max-w-[90%] w-fit;
+    @apply p-[2px_4px] max-w-[90%] w-fit wrap-break-word;
   }
 }
